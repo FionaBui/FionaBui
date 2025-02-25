@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Fiona! 👋
 
-<!--
-**FionaBui/FionaBui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm a **Frontend Developer** with a background in **Business Administration** and a passion for **UX/UI design**. Currently, I'm studying **Frontend Development at iths.se** and building projects that combine creativity with functionality.
+I also have a deep love for **culinary arts and gastronomy**, which inspires my work on restaurant-related digital projects.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- **Frontend:** HTML, CSS, JavaScript (ES6+), Vue.js  
+- **Backend:** Node.js, SQL  
+- **Other:** Figma, Scrum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects:
+- [Cà Phê - Restaurant](https://caphe-restaurant.vercel.app/) - My own restaurant's website.  
+- [TheMealDB Project]() - A recipe search app using TheMealDB API.  
+- [UX/UI Case Study]() - A user-centered design project.  
+- [Movie Finder]() - A movie search app using TheMovieDB API.  
+
+#### 📫 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/fiona-bui/)  
+📧 Email: buiphf@gmail.com🔗  
+
+💡 Always learning, always building!
+
+
+
