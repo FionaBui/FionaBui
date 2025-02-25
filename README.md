@@ -10,9 +10,9 @@ I also have a deep love for **culinary arts and gastronomy**, which inspires my 
 
 ### 🚀 Projects:
 - [Cà Phê - Restaurant](https://caphe-restaurant.vercel.app/) - My own restaurant's website.  
-- [TheMealDB Project]() - A recipe search app using TheMealDB API.  
+- [Cook & Share](https://recipe-page-six-beige.vercel.app/) - A recipe search app using TheMealDB API.  
 - [UX/UI Case Study]() - A user-centered design project.  
-- [Movie Finder]() - A movie search app using TheMovieDB API.  
+- [Movie Finder](https://movie-finder-six-nu.vercel.app/#/) - A movie search app using TheMovieDB API.  
 
 #### 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/fiona-bui/)  
