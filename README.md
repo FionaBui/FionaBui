@@ -11,10 +11,11 @@ Beyond coding, I'm passionate about **culinary arts**, which has influenced my i
 - **Other:** Figma, Scrum  
 
 ### 🚀 Projects:
+- [Movie Finder](https://movie-finder-six-nu.vercel.app/#/) - A movie search app using TheMovieDB API.  
 - [Cà Phê - Restaurant](https://caphe-restaurant.vercel.app/) - My own restaurant's website.  
 - [Cook & Share](https://recipe-page-six-beige.vercel.app/) - A recipe search app using TheMealDB API.  
 - [UX/UI Case Study]() - A user-centered design project.  
-- [Movie Finder](https://movie-finder-six-nu.vercel.app/#/) - A movie search app using TheMovieDB API.  
+
 
 #### 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/fiona-bui/)  
