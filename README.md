@@ -1,7 +1,9 @@
 # Hi there, I'm Fiona! 👋
 
-🌟 I'm a **Frontend Developer** with a background in **Business Administration** and a passion for **UX/UI design**. Currently, I'm studying **Frontend Development at iths.se** and building projects that combine creativity with functionality.
-I also have a deep love for **culinary arts and gastronomy**, which inspires my work on restaurant-related digital projects.
+🌟 A **Frontend Developer in the making**, with a foundation in **Business Administration**. I'm currently studying **Frontend Development at iths.se**, where I work on various projects to develop and refine my technical skills.
+
+Beyond coding, I'm passionate about **culinary arts**, which has influenced my interest in building digital solutions for the restaurant industry.
+
 
 ## 🔧 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript (ES6+), Vue.js  
