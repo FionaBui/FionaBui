@@ -6,11 +6,12 @@ Beyond coding, I'm passionate about **culinary arts**, which has influenced my i
 
 
 ## 🔧 Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript (ES6+), Vue.js  
+- **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, Vue.js, React
 - **Backend:** Node.js, SQL  
 - **Other:** Figma, Scrum  
 
 ### 🚀 Projects:
+- [Country Explorer](https://globe-guide-project.vercel.app/#/) - A SPA built with React, TypeScript, and REST Countries API. Features include country search, filters, detailed country info, favorites
 - [Movie Finder](https://movie-finder-six-nu.vercel.app/#/) - A movie search app using TheMovieDB API.  
 - [Cà Phê - Restaurant](https://caphe-restaurant.vercel.app/) - My own restaurant's website.  
 - [Cook & Share](https://recipe-page-six-beige.vercel.app/) - A recipe search app using TheMealDB API.  
